@@ -54,8 +54,7 @@ const PROJECT_TYPES = [
   { id: "event", label: "Event", icon: "🎯", color: "#A8DADC" },
   { id: "directing", label: "Creative Directing", icon: "🎭", color: "#C77DFF" },
   { id: "strategy", label: "Creative Strategy", icon: "🧠", color: "#52B788" },
-];{ id: "video", label: "Video Editing", icon: "🎞️", color: "#FF6B6B" },
-
+{ id: "video", label: "Video Editing", icon: "🎞️", color: "#FF6B6B" },
 const EXPENSE_CATEGORIES = ["Equipment", "Software", "Travel", "Marketing", "Subcontractors", "Office", "Education", "Other"];
 const STATUS_OPTIONS = ["Inquiry", "Quoted", "Booked", "In Progress", "Delivered", "Paid", "Archived"];
 
